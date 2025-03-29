@@ -29,11 +29,26 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Debug Episode</title>
+      <description>Testing new episode detection.<description>
+      <pubDate>Sat, 29 Mar 2025 12:10:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:subtitle/>
+      <itunes:summary>Testing new episode detection.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Hey, this is a podcast. You should see a description and artwork.</p>]]>
+      </content:encoded>
+      <itunes:duration>1234</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb5a1]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108043" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>A podcast title</title>
       <description>Hey, this is a podcast. You should see a description and artwork.</description>
       <pubDate>Thu, 27 Mar 2025 20:10:00 -0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>The Ringer</itunes:author>
+      <itunes:author>Brady Valentino</itunes:author>
       <itunes:subtitle/>
       <itunes:summary>Hey, this is a podcast. You should see a description and artwork.</itunes:summary>
       <content:encoded>
