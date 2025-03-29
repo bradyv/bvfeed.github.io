@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://bvfeed.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Peapod Test Feed</title>
+    <link>https://bvfeed.github.io</link>
+    <language>en</language>
+    <copyright>© All rights reserved.</copyright>
+    <description>Used to test json responses and new episode notifications in Peapod.</description>
+    <image>
+      <url>https://bvfeed.github.io/Light.png</url>
+      <title>Peapod Test Feed</title>
+      <link>https://bvfeed.github.io</link>
+    </image>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Brady Valentino</itunes:author>
+    <itunes:summary>Used to test json responses and new episode notifications in Peapod.</itunes:summary>
+    <content:encoded>
+      <![CDATA[<p>Used to test json responses and new episode notifications in Peapod.</p>]]>
+    </content:encoded>
+    <itunes:owner>
+      <itunes:name>Brady Valentino</itunes:name>
+      <itunes:email>bradyvalentino@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://bvfeed.github.io/Dark.png"/>
+    <itunes:category text="Sports">
+    </itunes:category>
+    <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
+    <item>
+      <title>A podcast title</title>
+      <description>Hey, this is a podcast. You should see a description and artwork.</description>
+      <pubDate>Thu, 27 Mar 2025 20:10:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>The Ringer</itunes:author>
+      <itunes:subtitle/>
+      <itunes:summary>Hey, this is a podcast. You should see a description and artwork.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Hey, this is a podcast. You should see a description and artwork.</p>]]>
+      </content:encoded>
+      <itunes:duration>5146</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb5a0]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108043" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
