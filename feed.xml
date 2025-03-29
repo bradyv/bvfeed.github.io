@@ -30,7 +30,7 @@
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
       <title>Debug Episode</title>
-      <description>Testing new episode detection.<description>
+      <description>Testing new episode detection.</description>
       <pubDate>Sat, 29 Mar 2025 12:10:00 -0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Brady Valentino</itunes:author>
