@@ -24,10 +24,27 @@
       <itunes:name>Brady Valentino</itunes:name>
       <itunes:email>bradyvalentino@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://bvfeed.github.io/Dark.png"/>
+    <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
     <itunes:category text="Sports">
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
+    <item>
+      <title>Today: Debugging and Testing</title>
+      <description>In an ideal world this displays a new podcast item with dark episode artwork.</description>
+      <pubDate>Sat, 30 Mar 2025 11:10:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Dark.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Dark.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>In an ideal world this displays a new podcast item with dark episode artwork.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In an ideal world this displays a new podcast item with dark episode artwork.</p>]]>
+      </content:encoded>
+      <itunes:duration>888</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb5a3]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108043" length="0" type="audio/mpeg"/>
+    </item>
     <item>
       <title>A Third Episode of Peapod</title>
       <description>This should automatically display in the queue if we're successful. Then, a party.</description>
