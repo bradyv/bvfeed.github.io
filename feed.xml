@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Maybe In the Forest?</title>
+      <description>Still not working. But maybe getting close?</description>
+      <pubDate>Sat, 30 Mar 2025 23:55:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Dark.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Dark.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Still not working. But maybe getting close?</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Still not working. But maybe getting close?</p>]]>
+      </content:encoded>
+      <itunes:duration>1200</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb510]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108043" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>In the Weeds!</title>
       <description>Veeeeeery obscure bug but maybe this fixes it? It's getting late and I'd like to unwind for the day but it bothers me to no end that this doesn't work.</description>
       <pubDate>Sat, 30 Mar 2025 23:10:00 -0000</pubDate>
