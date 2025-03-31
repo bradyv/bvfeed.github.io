@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>A Revision to Cache and Queue Logic</title>
+      <description>I'm doubtful that this will actually work, but we still have to perform the test. Regardless, with any luck I'm wrong and this has executed beautifully.</description>
+      <pubDate>Sat, 30 Mar 2025 20:10:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Dark.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Dark.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>I'm doubtful that this will actually work, but we still have to perform the test. Regardless, with any luck I'm wrong and this has executed beautifully.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>I'm doubtful that this will actually work, but we still have to perform the test. Regardless, with any luck I'm wrong and this has executed beautifully.</p>]]>
+      </content:encoded>
+      <itunes:duration>3222</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb5a5]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108043" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tomorrow: Continue Testing</title>
       <description>Put this at the top of the list.</description>
       <pubDate>Sat, 30 Mar 2025 13:10:00 -0000</pubDate>
