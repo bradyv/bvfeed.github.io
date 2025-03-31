@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Running Out of Titles, but Watching Star Trek: Strange New Worlds</title>
+      <description>This show is awesome. I love every character and every plotline. The things that shouldn't work actually work exceptionally well.</description>
+      <pubDate>Sat, 30 Mar 2025 23:50:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Dark.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Dark.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>This show is awesome. I love every character and every plotline. The things that shouldn't work actually work exceptionally well</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>This show is awesome. I love every character and every plotline. The things that shouldn't work actually work exceptionally well</p>]]>
+      </content:encoded>
+      <itunes:duration>2012</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb511]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108043" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Maybe In the Forest?</title>
       <description>Still not working. But maybe getting close?</description>
       <pubDate>Sat, 30 Mar 2025 23:55:00 -0000</pubDate>
