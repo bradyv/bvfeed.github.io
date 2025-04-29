@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Trigger a notification alert.</title>
+      <description>A test episode to see if we can trigger a notification when it hits the feed. Lorem ipsum dolor sit amet.</description>
+      <pubDate>Tue, 29 Apr 2025 11:13:44 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>A test episode to see if we can trigger a notification when it hits the feed. Lorem ipsum dolor sit amet.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A test episode to see if we can trigger a notification when it hits the feed.</p><p>Lorem ipsum dolor sit amet.</p>]]>
+      </content:encoded>
+      <itunes:duration>1789</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb515]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108045" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Just tap it in. Just taaaaaap it in.</title>
       <description>A test episode to see if we can trigger a notification when it hits the feed. Lorem ipsum dolor sit amet.</description>
       <pubDate>Tue, 29 Apr 2025 09:20:00 -0000</pubDate>
