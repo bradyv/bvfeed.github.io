@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Y U NO WORK</title>
+      <description>SEND THE NOTIFICATION.</description>
+      <pubDate>Tue, 29 Apr 2025 13:15:46 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>SEND THE NOTIFICATION.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>SEND THE NOTIFICATION.</p>]]>
+      </content:encoded>
+      <itunes:duration>812</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb517]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108047" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Create Another Notification Episode</title>
       <description>This one hopefully works. Lorem ipsum dolor sit amet.</description>
       <pubDate>Tue, 29 Apr 2025 12:14:45 -0000</pubDate>
