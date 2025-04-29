@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Who indeed: A Critical analysis of TV's "Who's The Boss?"</title>
+      <description>In the end, I was the beneficiary of so much more than getting to work on a hit show. Because of the generosity of spirit shown to me by those in the know at “Community” and their willingness to step over the line of comfort and give me a job at a moment when I was most afraid, I was able to feel the most overlooked element of the recovery process — a sense of purpose.</description>
+      <pubDate>Tue, 29 Apr 2025 16:18:49 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>In the end, I was the beneficiary of so much more than getting to work on a hit show. Because of the generosity of spirit shown to me by those in the know at “Community” and their willingness to step over the line of comfort and give me a job at a moment when I was most afraid, I was able to feel the most overlooked element of the recovery process — a sense of purpose.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In the end, I was the beneficiary of so much more than getting to work on a hit show. Because of the generosity of spirit shown to me by those in the know at “Community” and their willingness to step over the line of comfort and give me a job at a moment when I was most afraid, I was able to feel the most overlooked element of the recovery process — a sense of purpose.</p>]]>
+      </content:encoded>
+      <itunes:duration>1881</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb520]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108050" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>A New Episode Has Hit the Feed</title>
       <description>And it attaches the artwork too. How nifty!</description>
       <pubDate>Tue, 29 Apr 2025 15:17:48 -0000</pubDate>
