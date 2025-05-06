@@ -29,6 +29,57 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>This is the Way</title>
+      <description>Chugga chugga choo choo train.</description>
+      <pubDate>Tue, 5 May 2025 08:50:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Chugga chugga choo choo train.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Chugga chugga choo choo train.</p>]]>
+      </content:encoded>
+      <itunes:duration>1438</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb528]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108058" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>These Aren't the Droids You're Looking For</title>
+      <description>A long time ago in a galaxy far, far away.</description>
+      <pubDate>Tue, 5 May 2025 08:45:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>A long time ago in a galaxy far, far away.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A long time ago in a galaxy far, far away.</p>]]>
+      </content:encoded>
+      <itunes:duration>1437</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb527]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108057" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Run It Back</title>
+      <description>A background refresh this time. Rrrrrrapidly.</description>
+      <pubDate>Tue, 5 May 2025 08:40:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>A background refresh this time. Rrrrrrapidly.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A background refresh this time. Rrrrrrapidly.</p>]]>
+      </content:encoded>
+      <itunes:duration>1436</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb526]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108056" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Notification Test 4</title>
       <description>The subsequent episode of the rapid test.</description>
       <pubDate>Tue, 5 May 2025 08:35:00 -0000</pubDate>
