@@ -29,6 +29,40 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Notification Test 2</title>
+      <description>This is the second test of the duplication detection when multiple episodes are fetched rapidly.</description>
+      <pubDate>Tue, 5 May 2025 08:31:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>This is the second test of the duplication detection when multiple episodes are fetched rapidly.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>This is the second test of the duplication detection when multiple episodes are fetched rapidly.</p>]]>
+      </content:encoded>
+      <itunes:duration>1430</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb523]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108053" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Notification Test 1</title>
+      <description>This is a test of the duplication detection when multiple episodes are fetched rapidly.</description>
+      <pubDate>Tue, 5 May 2025 08:30:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>This is a test of the duplication detection when multiple episodes are fetched rapidly.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>This is a test of the duplication detection when multiple episodes are fetched rapidly.</p>]]>
+      </content:encoded>
+      <itunes:duration>1429</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb522]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108052" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Smells Like Mean Spirit</title>
       <description>Richmond is projected to finish in last place for the new Premier League season, while West Ham is expected to be in the top four. The forecast demoralizes the team; to lift their spirits, Ted gives them a tour of London's sewer system to teach them a lesson about relying on one another amidst hardship. Photos of the team entering the sewer go viral. Nate mocks the team and Ted during a press conference arranged by Rupert, but Ted responds during his own press conference with self-deprecating jokes that charm the reporters. Roy and Keeley inform Phoebe that they are breaking up, as Roy's increased coaching responsibilities and Keeley's busy job running her new PR firm give them little time together, but Keeley suggests there are deeper problems in their relationship. Over the phone, Ted's son Henry shows him a toy that his mother's "friend" Jake bought him, unsettling Ted.</description>
       <pubDate>Tue, 29 Apr 2025 17:19:50 -0000</pubDate>
