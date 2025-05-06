@@ -29,6 +29,40 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Notification Test 4</title>
+      <description>The subsequent episode of the rapid test.</description>
+      <pubDate>Tue, 5 May 2025 08:35:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>The subsequent episode of the rapid test.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The subsequent episode of the rapid test.</p>]]>
+      </content:encoded>
+      <itunes:duration>1432</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb525]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108055" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Notification Test 3</title>
+      <description>Another rapid refresh test.</description>
+      <pubDate>Tue, 5 May 2025 08:33:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Another rapid refresh test.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Another rapid refresh test.</p>]]>
+      </content:encoded>
+      <itunes:duration>1431</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6dcd4e18-f3b5-11ef-a5ea-f700b01bb524]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108054" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Notification Test 2</title>
       <description>This is the second test of the duplication detection when multiple episodes are fetched rapidly.</description>
       <pubDate>Tue, 5 May 2025 08:31:00 -0000</pubDate>
