@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Tuesday Feed Test</title>
+      <description>A new dawn, a new day. No day but today. Lorem ipsum dolor sit amet.</description>
+      <pubDate>Tue, 20 May 2025 04:26:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/Light.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/Light.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>A new dawn, a new day. No day but today. Last one before bed. Lorem ipsum dolor sit amet.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A new dawn, a new day. No day but today. Last one before bed. Lorem ipsum dolor sit amet.</p>]]>
+      </content:encoded>
+      <itunes:duration>1445</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb545]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108045" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>A Late Night Freshening</title>
       <description>Last one before bed. Lorem ipsum dolor sit amet.</description>
       <pubDate>Tue, 20 May 2025 00:26:00 -0000</pubDate>
