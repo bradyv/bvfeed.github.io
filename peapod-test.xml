@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Mk II - Firebase, Electric Boogaloo</title>
+      <description>Refreshing feeds in the back, partying up front. This episode should get pushed to my device and then appear right away in the app.</description>
+      <pubDate>Sat, 24 May 2025 22:09:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Refreshing feeds in the back, partying up front. This episode should get pushed to my device and then appear right away in the app.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Refreshing feeds in the back, partying up front. This episode should get pushed to my device and then appear right away in the app.</p>]]>
+      </content:encoded>
+      <itunes:duration>1001</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb001]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108001" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Firebase!!! Does this push??</title>
       <description>A new notification server has entered the villa.</description>
       <pubDate>Sat, 24 May 2025 21:52:00 -0000</pubDate>
