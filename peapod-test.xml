@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>One Last Ride: Try Again With a Service Extension</title>
+      <description>If this doesn't work I'm taking a break.</description>
+      <pubDate>Sat, 24 May 2025 22:59:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>If this doesn't work I'm taking a break.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>If this doesn't work I'm taking a break.</p>]]>
+      </content:encoded>
+      <itunes:duration>1005</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb005]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108005" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Episode V: The Artwork Strikes Back</title>
       <description>Rewrote the payload to hopefully attach artwork to the notification.</description>
       <pubDate>Sat, 24 May 2025 22:41:00 -0000</pubDate>
