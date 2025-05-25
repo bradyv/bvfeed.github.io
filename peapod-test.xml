@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Kingfisher</title>
+      <description>Not the movie. Try to use Kingfisher to attach podcast artwork to the notification payload locally.</description>
+      <pubDate>Sun, 25 May 2025 04:18:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Not the movie. Try to use Kingfisher to attach podcast artwork to the notification payload locally.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Not the movie. Try to use Kingfisher to attach podcast artwork to the notification payload locally.</p>]]>
+      </content:encoded>
+      <itunes:duration>1009</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb009]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108009" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Improved Polling Logic</title>
       <description>Check more frequently, guard against episodes beyond a cutoff timeframe.</description>
       <pubDate>Sun, 25 May 2025 03:09:00 -0000</pubDate>
