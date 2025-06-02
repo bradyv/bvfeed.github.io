@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>Test Notification Refreshing</title>
+      <description>I forgot to re-enable background refresh, so notifications were semi broken.</description>
+      <pubDate>Mon, 02 Jun 2025 04:37:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>I forgot to re-enable background refresh, so notifications were semi broken.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>I forgot to re-enable background refresh, so notifications were semi broken.</p>]]>
+      </content:encoded>
+      <itunes:duration>1013</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb013]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108013" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Re-Deploy Firebase</title>
       <description>Another lorem ipsum dolor sit amet.</description>
       <pubDate>Sun, 01 Jun 2025 23:22:00 -0000</pubDate>
