@@ -29,6 +29,23 @@
     </itunes:category>
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
+      <title>New Notification Logic</title>
+      <description>Lorem ipsum. Firebase deploy. Test please. Hope work.</description>
+      <pubDate>Sun, 31 Aug 2025 05:23:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>Lorem ipsum. Firebase deploy. Test please. Hope work.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Lorem ipsum. Firebase deploy. Test please. Hope work.</p>]]>
+      </content:encoded>
+      <itunes:duration>1025</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb025]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108025" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>New Bundle Identifier</title>
       <description>The quick brown fox jumps over the lazy dog.</description>
       <pubDate>Mon, 18 Aug 2025 05:03:00 -0000</pubDate>
