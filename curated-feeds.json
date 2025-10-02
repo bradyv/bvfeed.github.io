@@ -30,20 +30,20 @@
       },
       {
         "im:name": {
-          "label": "Monday Morning Podcast"
+          "label": "Dish"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/a3/6b/baa36bc4-21cc-869b-0ca1-25300deff899/mza_4932700917255071769.jpg/170x170bb.jpg",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/03/fb/1903fb77-7479-e5a0-a21b-cdbcb00b8f22/mza_14842254710265904094.jpeg/170x170bb.jpg",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "id": {
-          "label": "https://podcasts.apple.com/us/podcast/monday-morning-podcast/id480486345?uo=4",
+          "label": "https://podcasts.apple.com/us/podcast/dish/id1626354833?uo=4",
           "attributes": {
-            "im:id": "480486345"
+            "im:id": "1626354833"
           }
         }
       },
