@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+	<head>
+		<title>Peapod Podcast Subscriptions</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline type="rss" text="The Life of Phys" xmlUrl="https://anchor.fm/s/e3ebe9a0/podcast/rss"/>
+	</body>
+</opml>
