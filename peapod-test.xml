@@ -30,6 +30,23 @@
     <itunes:new-feed-url>https://bvfeed.github.io/feed.xml</itunes:new-feed-url>
     <item>
       <title>Run It Back</title>
+      <description>Update the Payload.</description>
+      <pubDate>Wed, 18 Feb 2026 05:11:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Brady Valentino</itunes:author>
+      <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
+      <media:content url="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png" type="image/png"/>
+      <itunes:subtitle/>
+      <itunes:summary>content-available should make this download.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>content-available should make this download.</p>]]>
+      </content:encoded>
+      <itunes:duration>1073</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb0273]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108073" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Run It Back</title>
       <description>Do it again to confirm the nav stack works.</description>
       <pubDate>Wed, 18 Feb 2026 04:56:00 -0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
