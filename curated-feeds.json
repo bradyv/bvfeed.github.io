@@ -33,7 +33,7 @@
         "im:name": {
           "label": "Dish"
         },
-        "shortDescription": "Nick Grimshaw and Angela Hartnett serve up food, culture, and great conversation.",
+        "shortDescription": "Nick Grimshaw and Angela Hartnett serve up food and great conversation.",
         "im:image": [
           {
             "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/03/fb/1903fb77-7479-e5a0-a21b-cdbcb00b8f22/mza_14842254710265904094.jpeg/170x170bb.jpg",
@@ -51,29 +51,9 @@
       },
       {
         "im:name": {
-          "label": "The Romesh Ranganathan Show"
-        },
-        "shortDescription": "Comedian Romesh Ranganathan chats with guests about life, laughs, and everything in between.",
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/95/d5249530-fea6-d673-943e-e3ef488df650/mza_14765924769907219621.jpg/600x600bb.jpg",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "id": {
-          "label": "https://podcasts.apple.com/us/podcast/the-romesh-ranganathan-show/id1838594107?uo=4",
-          "attributes": {
-            "im:id": "1838594107"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "Ologies with Alie Ward"
         },
-        "shortDescription": "Alie Ward interviews experts in every -ology you can imagine, making science fun and accessible.",
+        "shortDescription": "Alie Ward interviews experts in every -ology you can imagine.",
         "im:image": [
           {
             "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/44/4e/42/444e42f6-1ce8-1e7b-2d50-4ed506c27004/mza_18370866018545460916.jpg/600x600bb.jpg",
@@ -93,7 +73,7 @@
         "im:name": {
           "label": "The Life Of Phys"
         },
-        "shortDescription": "Photographer Tyson Martin talks creativity, mindset, and the human stories behind the lens.",
+        "shortDescription": "Photographer Tyson Martin talks creativity and the human stories behind the lens.",
         "im:image": [
           {
             "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/81/a0/8481a097-aa34-2fed-afa8-0a5e5765334d/mza_4992577267337825477.jpg/600x600bb.jpg",
