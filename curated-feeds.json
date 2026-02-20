@@ -13,6 +13,7 @@
         "im:name": {
           "label": "The Rewatchables"
         },
+        "shortDescription": "Bill Simmons and friends break down classic movies that never get old.",
         "im:image": [
           {
             "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/fb/1f/35fb1f81-829f-fc1b-ba53-2eb3558ac16d/mza_3402099772405228107.jpg/170x170bb.jpg",
@@ -32,6 +33,7 @@
         "im:name": {
           "label": "Dish"
         },
+        "shortDescription": "Nick Grimshaw and Angela Hartnett serve up food, culture, and great conversation.",
         "im:image": [
           {
             "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/03/fb/1903fb77-7479-e5a0-a21b-cdbcb00b8f22/mza_14842254710265904094.jpeg/170x170bb.jpg",
@@ -51,6 +53,7 @@
         "im:name": {
           "label": "The Romesh Ranganathan Show"
         },
+        "shortDescription": "Comedian Romesh Ranganathan chats with guests about life, laughs, and everything in between.",
         "im:image": [
           {
             "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/95/d5249530-fea6-d673-943e-e3ef488df650/mza_14765924769907219621.jpg/600x600bb.jpg",
@@ -70,6 +73,7 @@
         "im:name": {
           "label": "Ologies with Alie Ward"
         },
+        "shortDescription": "Alie Ward interviews experts in every -ology you can imagine, making science fun and accessible.",
         "im:image": [
           {
             "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/44/4e/42/444e42f6-1ce8-1e7b-2d50-4ed506c27004/mza_18370866018545460916.jpg/600x600bb.jpg",
@@ -89,6 +93,7 @@
         "im:name": {
           "label": "The Life Of Phys"
         },
+        "shortDescription": "Photographer Tyson Martin talks creativity, mindset, and the human stories behind the lens.",
         "im:image": [
           {
             "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/81/a0/8481a097-aa34-2fed-afa8-0a5e5765334d/mza_4992577267337825477.jpg/600x600bb.jpg",
@@ -108,6 +113,7 @@
         "im:name": {
           "label": "Films To Be Buried With with Brett Goldstein"
         },
+        "shortDescription": "Brett Goldstein asks guests to pick the films they'd take to the afterlife.",
         "im:image": [
           {
             "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/d2/39/11/d239111c-b56d-23fa-6737-52c6a64e7b12/mza_3142512264023519270.jpg/170x170bb.jpg",
