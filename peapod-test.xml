@@ -31,7 +31,7 @@
     <item>
       <title>Fix the Notification Logic Again</title>
       <description>Lorem ipsum dolor sit amet.</description>
-      <pubDate>Thu, 12 Feb Mar 14:22:00 -0000</pubDate>
+      <pubDate>Thu, 12 Mar 14:47:00 -0000</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Brady Valentino</itunes:author>
       <itunes:image href="https://bradyv.github.io/bvfeed.github.io/conf-call-episode.png"/>
@@ -41,9 +41,9 @@
       <content:encoded>
         <![CDATA[<p>Lorem ipsum dolor sit amet.</p>]]>
       </content:encoded>
-      <itunes:duration>1074</itunes:duration>
-      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb0274]]></guid>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108074" length="0" type="audio/mpeg"/>
+      <itunes:duration>1075</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8dcd4e18-f3b5-11ef-a5ea-f700b01bb0275]]></guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT6389139975.mp3?updated=1743108075" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>Run It Back</title>
